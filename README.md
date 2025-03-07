@@ -1,0 +1,5 @@
+# GejieAi
+由gordon使用tts2训练生成，用于基于mantella的ai解决方案的语音转换文本的中文音色json文件
+
+存放路径：
+\xtts_mantella_api_server\latent_speaker_folder\
